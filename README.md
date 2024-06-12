@@ -1,2 +1,2 @@
 # Tools
-kumpulan tools
+kumpulan tools, tolong gunakan untuk kebaikan
